@@ -3,7 +3,7 @@ entries:
   mysql:
   - apiVersion: v2
     appVersion: 8.0.31
-    created: "2023-04-01T07:49:42.993805292-07:00"
+    created: "2023-04-03T01:21:44.339475466-07:00"
     description: mysql chart used for oai5g core
     digest: 48762e87b44631d61426ff8a0108d6d5048db0859796c64dd1145ae84d1baa6e
     home: https://www.mysql.com/
@@ -17,12 +17,12 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/mysql
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/mysql-8.0.31.tgz
+    - https://tjkkking.github.io/osmhelm/charts/mysql-8.0.31.tgz
     version: 8.0.31
   oai-amf:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.994931396-07:00"
+    created: "2023-04-03T01:21:44.339952829-07:00"
     description: Helm chart for AMF network function
     digest: 2e975ae64ab6e0fb383dbc993cd54f40bca247dd31fd027a58371524782e0d2a
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -39,12 +39,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-amf-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-amf-v1.5.0.tgz
     version: v1.5.0
   oai-ausf:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.995670248-07:00"
+    created: "2023-04-03T01:21:44.340284465-07:00"
     description: Helm chart for AUSF network function
     digest: 60f7113acc7142dd64a75bc9882d3e6bfb9a7ba34a407cb7f395e4d86a4e64d6
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -61,12 +61,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-ausf-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-ausf-v1.5.0.tgz
     version: v1.5.0
   oai-nrf:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.99645774-07:00"
+    created: "2023-04-03T01:21:44.340607358-07:00"
     description: A Helm chart for NRF network function
     digest: 76a78be7bdd9705f6bb73138241ef97fa1934eba34cfd57c3f5777d1966326fe
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -83,12 +83,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-nrf-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-nrf-v1.5.0.tgz
     version: v1.5.0
   oai-smf:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.997459423-07:00"
+    created: "2023-04-03T01:21:44.341131407-07:00"
     description: A Helm chart for SMF network function
     digest: 4130ded61a9aa0ff40493366c53804d4415c89220f1fdf4fa94ef1e1c27cb59c
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -105,12 +105,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-smf-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-smf-v1.5.0.tgz
     version: v1.5.0
   oai-spgwu-tiny:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.998630802-07:00"
+    created: "2023-04-03T01:21:44.341515785-07:00"
     description: A Helm chart for UPF/SPGWU TINY as network function
     digest: 6559325b0d0fb64c837f2af6c0083e51e571d12e68a576395e2930c498b763d5
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -130,12 +130,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-spgwu-tiny-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-spgwu-tiny-v1.5.0.tgz
     version: v1.5.0
   oai-udm:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.999366375-07:00"
+    created: "2023-04-03T01:21:44.341852011-07:00"
     description: Helm chart for UDM network function
     digest: 787de1210554f0df4756f1c1b8ebdb4743e032f323e6388eedf65d988c7ea487
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -152,12 +152,12 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-udm-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-udm-v1.5.0.tgz
     version: v1.5.0
   oai-udr:
   - apiVersion: v2
     appVersion: v1.5.0
-    created: "2023-04-01T07:49:42.999698249-07:00"
+    created: "2023-04-03T01:21:44.343681335-07:00"
     description: Helm chart for UDR network function
     digest: 5ba4e221d95131d06f1e1b8deda94e656b4eee82d4f5e6ca155762e914fecd02
     icon: http://www.openairinterface.org/wp-content/uploads/2015/06/cropped-oai_final_logo.png
@@ -174,6 +174,6 @@ entries:
     - https://openairinterface.org/
     type: application
     urls:
-    - https://raw.githubusercontent.com/TJKkking/osmhelm/master/charts/oai-udr-v1.5.0.tgz
+    - https://tjkkking.github.io/osmhelm/charts/oai-udr-v1.5.0.tgz
     version: v1.5.0
-generated: "2023-04-01T07:49:42.992184228-07:00"
+generated: "2023-04-03T01:21:44.338652476-07:00"
