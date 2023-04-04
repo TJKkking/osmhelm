@@ -1,4 +1,4 @@
-# helm-chart
+# oai 5gcn helm-chart for OSM
 
 ## helm的chart仓库地址为：https://tjkkking.github.io/osmhelm/charts/
 
