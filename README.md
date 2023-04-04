@@ -1,19 +1,19 @@
 # helm-chart
 
-## helm的chart仓库地址为：[]
+## helm的chart仓库地址为：https://tjkkking.github.io/osmhelm/charts/
 
 ## 本Chart仓库的使用方法
 
 1、添加chart仓库
 ```
-# helm repo add myrepo []
+# helm repo add myrepo https://tjkkking.github.io/osmhelm/charts/
 ```
 
 2、添加成功
 ```
 # helm repo list
 NAME  	URL                                   
-myrepo	[]
+myrepo	https://tjkkking.github.io/osmhelm/charts/
 ```
 
 3、搜索chart包
@@ -30,4 +30,4 @@ myrepo/test                       	0.1.0        	1.16.0     	A Helm chart for Ku
 # helm install xxx myrepo/test
 ```
 
-xxx为relaese名字
+xxx为relaese name
